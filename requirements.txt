@@ -1,0 +1,15 @@
+google-adk
+litellm
+requests
+requests-cache
+yfinance
+pandas
+pandas-ta
+python-dotenv
+setuptools
+wheel
+matplotlib
+seaborn
+scipy
+statsmodels
+numpy
