@@ -4,7 +4,7 @@ requests
 requests-cache
 yfinance
 pandas
-pandas-ta
+TA-Lib
 python-dotenv
 setuptools
 wheel

@@ -32,7 +32,7 @@ def safe_convert(value):
         return int(value)
     if isinstance(value, (np.floating, np.complexfloating)):
         return float(value)
-    if isinstance(value, (np.bool_, np.bool8)):
+    if isinstance(value, (np.bool_, bool)):
         return bool(value)
     if isinstance(value, np.ndarray):
         return value.tolist()
